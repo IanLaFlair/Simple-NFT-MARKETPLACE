@@ -1,6 +1,6 @@
 
 ## Simple NFT Marketplace
-![ScreenShoot](https://pasteboard.co/JwdnaBLYNacU.png)](https://gcdnb.pbrd.co/images/JwdnaBLYNacU.png?o=1)
+![ScreenShoot](https://gcdnb.pbrd.co/images/JwdnaBLYNacU.png?o=1)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Simple NFT Marketplace is where you can mint
